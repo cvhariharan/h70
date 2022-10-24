@@ -1,12 +1,17 @@
-# h70
-
-<p align="center">
-    <img src="images/h70.png" width="50%" height="30%">
-<p>
-
+# H70
 A 3d-printed, RP2040 based 5x14 ortholinear split keyboard. 
 
-* Keyboard Maintainer: [cvhariharan](https://github.com/cvhariharan)
+<p align="center">
+    <img src="images/h70.png" width="70%" height="30%">
+<p>
+<p align="center">
+    <img src="images/h70-full.JPG" width="70%" height="30%">
+<p>
+
+
+<p align="center">
+    <img src="images/h70-split.JPG" width="70%" height="30%">
+<p>
 
 Make example for this keyboard (after setting up your build environment):
 
@@ -30,7 +35,7 @@ Enter the bootloader in 3 ways:
 - Waveshare RP2040 Zero
 - Gateron Yellow Switches x 70
 - 1N4148 Diodes x 70
-- Akko Gold and Yellow SAL Profile Keycaps
+- Akko Black and Gold SAL Profile Keycaps
 - 3D printed enclosure
 - Wires
 ## Schematic
